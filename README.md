@@ -1,6 +1,6 @@
 # Flemish Archive for Annotated Music - Music treatises dataset
 
-![logo_faam](https://faam.laboxix-xx.be/upload/media/Logo_horizontal_gold.png)
+![logo_faam](https://nicholascornia89.github.io/faam/assets/images/faam-logo_full-gold.png)
 This dataset is part of the FAAM (Flemish Archive for Annotated Music) project at the [Royal Conservatoire of Antwerp](https://www.ap-arts.be/en/research/faam-flemish-archive-annotated-music).
 
 The current dataset is an extension of the [FAAM-dataset repository](https://github.com/nicholascornia89/FAAM-dataset), dedicated exclusively to music treatises and their layout analysis. 
